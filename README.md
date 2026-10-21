@@ -1,115 +1,107 @@
  <div align="center">
 
-# Hi, I'm Mohammad Garmabi 👋
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:0D1117,45:123B55,100:087E8B&text=Mohammad%20Garmabi&fontColor=FFFFFF&fontSize=46&fontAlignY=42&desc=Senior%20Frontend%20Engineer%20%7C%20Open%20Source%20Developer&descSize=15&descAlignY=62&animation=fadeIn" width="100%" alt="Mohammad Garmabi profile banner" />
 
-### Senior Frontend Engineer · Open Source Developer
+<br/>
 
-I build maintainable frontend systems, developer tools, and type-safe APIs.
+### Building thoughtful interfaces and developer tools.
 
-I enjoy turning complex engineering problems into simple, reliable solutions.
+**React · TypeScript · Frontend Architecture · Open Source**
 
-[![GitHub](https://img.shields.io/badge/GitHub-mohamadgarmabi-181717?style=for-the-badge&logo=github)](https://github.com/mohamadgarmabi)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohammad-garmabi/)
-[![X](https://img.shields.io/badge/Follow-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/M_Garmabi_73)
+[GitHub](https://github.com/mohamadgarmabi) · [LinkedIn](https://www.linkedin.com/in/mohammad-garmabi/) · [tanstack-fetch Docs](https://mohamadgarmabi.github.io/tanstack-fetch/)
 
 </div>
 
 ---
 
-## 🚀 Featured Project
+## `$ whoami`
+
+I'm a Senior Frontend Engineer focused on building scalable React applications, maintainable frontend architectures, and developer-friendly tools.
+
+I care about more than making things work — I care about **type safety, predictable behavior, clean abstractions, and a better developer experience.**
+
+- ⚛️ Building modern applications with **React and TypeScript**
+- 🧩 Designing reusable components and maintainable frontend systems
+- 🚀 Creating **tanstack-fetch**, an open-source HTTP client
+- 🔍 Exploring API design, server state, and frontend architecture
+
+---
+
+## ✦ Featured Work
 
 <div align="center">
 
-### [tanstack-fetch](https://github.com/mohamadgarmabi/tanstack-fetch)
+<a href="https://github.com/mohamadgarmabi/tanstack-fetch">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=mohamadgarmabi&repo=tanstack-fetch&theme=transparent&hide_border=true" width="100%" alt="tanstack-fetch repository card" />
+</a>
 
-**A type-safe Fetch client built for the TanStack Query mental model.**
+### `tanstack-fetch`
 
-A lightweight, extensible HTTP client designed to make API communication more predictable and maintainable.
+A type-safe Fetch client designed around the TanStack Query mental model.
 
-[![npm](https://img.shields.io/npm/v/tanstack-fetch?style=flat-square&logo=npm&color=CB3837)](https://www.npmjs.com/package/tanstack-fetch)
-[![Bundle Size](https://img.shields.io/bundlephobia/minzip/tanstack-fetch?style=flat-square&label=gzip)](https://bundlephobia.com/package/tanstack-fetch)
-[![GitHub Stars](https://img.shields.io/github/stars/mohamadgarmabi/tanstack-fetch?style=flat-square&logo=github)](https://github.com/mohamadgarmabi/tanstack-fetch)
+[![npm](https://img.shields.io/npm/v/tanstack-fetch?style=flat-square&color=0D9488)](https://www.npmjs.com/package/tanstack-fetch)
+[![GitHub Stars](https://img.shields.io/github/stars/mohamadgarmabi/tanstack-fetch?style=flat-square&color=0D9488)](https://github.com/mohamadgarmabi/tanstack-fetch)
 
-**Key features**
+**Type-safe requests. Predictable errors. Extensible HTTP workflows.**
 
-- 🔒 End-to-end type-safe requests
-- ⚡ Lightweight Fetch-based HTTP core
-- 🔄 Interceptors, plugins, and token refresh workflows
-- 🛑 AbortSignal support and request cancellation
-- 🌊 Server-Sent Events (SSE)
-- 🧩 Designed to complement TanStack Query
-
-[**Documentation →**](https://mohamadgarmabi.github.io/tanstack-fetch/)
+[Explore the project →](https://github.com/mohamadgarmabi/tanstack-fetch) · [Read the docs →](https://mohamadgarmabi.github.io/tanstack-fetch/)
 
 </div>
 
 ---
 
-## 🛠️ Tech Stack
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-
-**State Management & Data Fetching**
-
-![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
-
-**Styling & UI**
-
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-**Backend & Tooling**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
-
----
-
-## 📊 GitHub Statistics
+## ⚡ Tech Stack
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=mohamadgarmabi&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub statistics" />
+**CORE**
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamadgarmabi&layout=compact&hide_border=true&theme=transparent" alt="Most used languages" />
+<img src="https://skillicons.dev/icons?i=react,ts,js,nextjs&theme=dark" alt="React, TypeScript, JavaScript and Next.js" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamadgarmabi&hide_border=true&theme=transparent" alt="GitHub contribution streak" />
+**FRONTEND ECOSYSTEM**
+
+<img src="https://skillicons.dev/icons?i=vue,redux,tailwind,sass,vite,webpack&theme=dark" alt="Vue, Redux, Tailwind CSS, Sass, Vite and Webpack" />
+
+**BACKEND & TOOLS**
+
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,graphql,docker,git,github,postgres,mongodb&theme=dark" alt="Node.js, NestJS, GraphQL, Docker, Git, GitHub, PostgreSQL and MongoDB" />
 
 </div>
 
 ---
 
-## 🌱 What I'm Focused On
-
-- Building reliable, maintainable frontend architectures.
-- Improving developer experience through open-source tooling.
-- Exploring type safety, API design, and modern React ecosystems.
-- Sharing practical engineering knowledge with the community.
-
----
-
-## 🤝 Let's Connect
-
-I'm always interested in meaningful engineering discussions, open-source collaboration, and building tools that make developers more productive.
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/mohammad-garmabi/)
-- 🐙 [GitHub](https://github.com/mohamadgarmabi)
-- 🐦 [X](https://x.com/M_Garmabi_73)
+## 📈 GitHub Activity
 
 <div align="center">
 
-*Building software. Sharing knowledge. Improving the developer experience.*
+<img src="https://github-readme-stats.vercel.app/api?username=mohamadgarmabi&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" width="49%" alt="GitHub stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamadgarmabi&layout=compact&hide_border=true&theme=transparent&langs_count=6" width="49%" alt="Most used programming languages" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamadgarmabi&hide_border=true&theme=transparent" width="75%" alt="GitHub contribution streak" />
+
+</div>
+
+---
+
+## 🎯 Currently Interested In
+
+- Building robust React + TypeScript applications
+- Frontend architecture and system design
+- Type-safe API clients and developer tooling
+- Open-source projects that solve real engineering problems
+
+---
+
+<div align="center">
+
+### Let's build something meaningful.
+
+Open to interesting engineering discussions and open-source collaborations.
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohammad-garmabi/)
+[![GitHub](https://img.shields.io/badge/Explore_my_projects-181717?style=for-the-badge&logo=github)](https://github.com/mohamadgarmabi)
+
+<sub>Designed with a focus on engineering, simplicity, and open source.</sub>
 
 </div>
