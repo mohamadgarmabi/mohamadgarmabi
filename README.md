@@ -54,20 +54,23 @@ A type-safe Fetch client designed around the TanStack Query mental model.
 
 <div align="center">
 
-**CORE**
+**FRONTEND**
 
-<img src="https://skillicons.dev/icons?i=react,ts,js,nextjs&theme=dark" alt="React, TypeScript, JavaScript and Next.js" />
+<img src="https://skillicons.dev/icons?i=react,ts,js,nextjs,vue,redux,tailwind,sass,vite&theme=dark" alt="Frontend technologies" />
 
-**FRONTEND ECOSYSTEM**
+**BACKEND & FRAMEWORKS**
 
-<img src="https://skillicons.dev/icons?i=vue,redux,tailwind,sass,vite,webpack&theme=dark" alt="Vue, Redux, Tailwind CSS, Sass, Vite and Webpack" />
+<img src="https://skillicons.dev/icons?i=go,py,fastapi,django,nestjs,express,nodejs&theme=dark" alt="Go, Python, FastAPI, Django, NestJS, Express.js and Node.js" />
 
-**BACKEND & TOOLS**
+**DATABASES & CACHING**
 
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,graphql,docker,git,github,postgres,mongodb&theme=dark" alt="Node.js, NestJS, GraphQL, Docker, Git, GitHub, PostgreSQL and MongoDB" />
+<img src="https://skillicons.dev/icons?i=postgres,redis,mongodb,mysql&theme=dark" alt="PostgreSQL, Redis, MongoDB and MySQL" />
+
+**TOOLS & INFRASTRUCTURE**
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,graphql,linux&theme=dark" alt="Docker, Kubernetes, Git, GitHub, GraphQL and Linux" />
 
 </div>
-
 ---
 
 ## 📈 GitHub Activity
