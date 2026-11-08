@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="236" viewBox="0 0 1000 236" role="img" aria-label="Currently: React + TypeScript, Go/Django/FastAPI backends, architecture, developer tooling">
+<defs><linearGradient id="og" x1="0" y1="0" x2="1" y2="0" spreadMethod="reflect">
+  <stop offset="0" stop-color="#ea580c"/><stop offset=".5" stop-color="#f97316"/><stop offset="1" stop-color="#fbbf24"/>
+  <animateTransform attributeName="gradientTransform" type="translate" values="-1 0;1 0;-1 0" dur="7s" repeatCount="indefinite"/>
+</linearGradient><filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter><filter id="blur" x="-80%" y="-80%" width="260%" height="260%"><feGaussianBlur stdDeviation="50"/></filter><pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#ffffff" fill-opacity=".07"/></pattern></defs>
+<style>
+.up{opacity:0;animation:up .9s cubic-bezier(.2,.8,.2,1) forwards}
+@keyframes up{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:none}}
+.fade{opacity:0;animation:fade 1s ease forwards}
+@keyframes fade{to{opacity:1}}
+.float{animation:float 6s ease-in-out infinite}
+@keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-8px)}}
+.mono{font-family:'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace} .sans{font-family:'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif}
+</style>
+<g class="up" style="animation-delay:0.00s"><g style="animation:float 6s ease-in-out 0.0s infinite">
+<rect x="1" y="14" width="233" height="200" rx="18" fill="#120d09" stroke="#2a1c12" stroke-width="1.2"><animate attributeName="stroke" values="#f97316;#2a1c12;#2a1c12" keyTimes="0;.25;1" dur="8s" calcMode="discrete" repeatCount="indefinite"/></rect>
+<rect x="1" y="14" width="233" height="200" rx="18" fill="url(#dots)"/>
+<rect x="23" y="38" width="44" height="44" rx="12" fill="#21160d" stroke="#f97316" stroke-opacity=".5"/>
+<text x="45" y="66" text-anchor="middle" class="mono" font-size="15" font-weight="700" fill="url(#og)">01</text>
+<text x="23" y="122" class="sans" font-size="17.5" font-weight="700" fill="#f5ede6">React + TypeScript</text>
+<text x="23" y="152" class="sans" font-size="14" fill="#a8968a">Robust, scalable</text>
+<text x="23" y="172" class="sans" font-size="14" fill="#a8968a">frontend applications</text>
+<line x1="23" y1="192" x2="23" y2="192" stroke="url(#og)" stroke-width="2.5" stroke-linecap="round"><animate attributeName="x2" values="23;210;23" dur="8s" begin="0.0s" repeatCount="indefinite" keyTimes="0;.12;.25" calcMode="spline" keySplines=".2 .8 .2 1;.6 0 .8 .2"/></line>
+</g></g>
+<g class="up" style="animation-delay:0.15s"><g style="animation:float 6s ease-in-out 0.7s infinite">
+<rect x="256" y="14" width="233" height="200" rx="18" fill="#120d09" stroke="#2a1c12" stroke-width="1.2"><animate attributeName="stroke" values="#2a1c12;#f97316;#2a1c12;#2a1c12" keyTimes="0;0.250;0.500;1" dur="8s" calcMode="discrete" repeatCount="indefinite"/></rect>
+<rect x="256" y="14" width="233" height="200" rx="18" fill="url(#dots)"/>
+<rect x="278" y="38" width="44" height="44" rx="12" fill="#21160d" stroke="#f97316" stroke-opacity=".5"/>
+<text x="300" y="66" text-anchor="middle" class="mono" font-size="15" font-weight="700" fill="url(#og)">02</text>
+<text x="278" y="122" class="sans" font-size="17.5" font-weight="700" fill="#f5ede6">Go · Django · FastAPI</text>
+<text x="278" y="152" class="sans" font-size="14" fill="#a8968a">Backend services</text>
+<text x="278" y="172" class="sans" font-size="14" fill="#a8968a">and APIs</text>
+<line x1="278" y1="192" x2="278" y2="192" stroke="url(#og)" stroke-width="2.5" stroke-linecap="round"><animate attributeName="x2" values="278;465;278" dur="8s" begin="2.0s" repeatCount="indefinite" keyTimes="0;.12;.25" calcMode="spline" keySplines=".2 .8 .2 1;.6 0 .8 .2"/></line>
+</g></g>
+<g class="up" style="animation-delay:0.30s"><g style="animation:float 6s ease-in-out 1.4s infinite">
+<rect x="511" y="14" width="233" height="200" rx="18" fill="#120d09" stroke="#2a1c12" stroke-width="1.2"><animate attributeName="stroke" values="#2a1c12;#f97316;#2a1c12;#2a1c12" keyTimes="0;0.500;0.750;1" dur="8s" calcMode="discrete" repeatCount="indefinite"/></rect>
+<rect x="511" y="14" width="233" height="200" rx="18" fill="url(#dots)"/>
+<rect x="533" y="38" width="44" height="44" rx="12" fill="#21160d" stroke="#f97316" stroke-opacity=".5"/>
+<text x="555" y="66" text-anchor="middle" class="mono" font-size="15" font-weight="700" fill="url(#og)">03</text>
+<text x="533" y="122" class="sans" font-size="17.5" font-weight="700" fill="#f5ede6">Architecture</text>
+<text x="533" y="152" class="sans" font-size="14" fill="#a8968a">System design and</text>
+<text x="533" y="172" class="sans" font-size="14" fill="#a8968a">clean abstractions</text>
+<line x1="533" y1="192" x2="533" y2="192" stroke="url(#og)" stroke-width="2.5" stroke-linecap="round"><animate attributeName="x2" values="533;720;533" dur="8s" begin="4.0s" repeatCount="indefinite" keyTimes="0;.12;.25" calcMode="spline" keySplines=".2 .8 .2 1;.6 0 .8 .2"/></line>
+</g></g>
+<g class="up" style="animation-delay:0.45s"><g style="animation:float 6s ease-in-out 2.1s infinite">
+<rect x="766" y="14" width="233" height="200" rx="18" fill="#120d09" stroke="#2a1c12" stroke-width="1.2"><animate attributeName="stroke" values="#2a1c12;#f97316;#2a1c12;#2a1c12" keyTimes="0;0.750;1.000;1" dur="8s" calcMode="discrete" repeatCount="indefinite"/></rect>
+<rect x="766" y="14" width="233" height="200" rx="18" fill="url(#dots)"/>
+<rect x="788" y="38" width="44" height="44" rx="12" fill="#21160d" stroke="#f97316" stroke-opacity=".5"/>
+<text x="810" y="66" text-anchor="middle" class="mono" font-size="15" font-weight="700" fill="url(#og)">04</text>
+<text x="788" y="122" class="sans" font-size="17.5" font-weight="700" fill="#f5ede6">Developer tooling</text>
+<text x="788" y="152" class="sans" font-size="14" fill="#a8968a">Type-safe API clients</text>
+<text x="788" y="172" class="sans" font-size="14" fill="#a8968a">and server state</text>
+<line x1="788" y1="192" x2="788" y2="192" stroke="url(#og)" stroke-width="2.5" stroke-linecap="round"><animate attributeName="x2" values="788;975;788" dur="8s" begin="6.0s" repeatCount="indefinite" keyTimes="0;.12;.25" calcMode="spline" keySplines=".2 .8 .2 1;.6 0 .8 .2"/></line>
+</g></g>
+</svg>

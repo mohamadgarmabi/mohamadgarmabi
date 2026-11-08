@@ -1,20 +1,74 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="860" height="374" viewBox="0 0 860 374" role="img" aria-label="whoami terminal">
-<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
-  <stop offset="0" stop-color="#16a34a"/><stop offset=".5" stop-color="#4ade80"/><stop offset="1" stop-color="#a3e635"/>
-  <animateTransform attributeName="gradientTransform" type="translate" values="-1 0;1 0;-1 0" dur="8s" repeatCount="indefinite"/>
-</linearGradient></defs>
-<style>.t{font:500 15px 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace;white-space:pre} .ttl{font:500 13px 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace;fill:#8fb3a0}</style>
-<rect x=".5" y=".5" width="859" height="373" rx="14" fill="#0c1a12" stroke="#1a3324"/>
-<path d="M14.5 .5h831a14 14 0 0 1 14 14V40H.5V14.5a14 14 0 0 1 14-14z" fill="#10241a"/>
-<line x1="0" y1="40" x2="860" y2="40" stroke="#1a3324"/>
-<rect x="0" y="39" width="860" height="2" fill="url(#g)" opacity=".7"/>
-<circle cx="24" cy="20" r="6" fill="#ff5f57"/><circle cx="44" cy="20" r="6" fill="#febc2e"/><circle cx="64" cy="20" r="6" fill="#28c840"/>
-<text x="430.0" y="25" text-anchor="middle" class="ttl">~/mohammad — zsh</text>
-<text x="28" y="78" class="t" opacity="0"><tspan fill="#2dd4bf">mohammad</tspan><tspan fill="#8fb3a0">@</tspan><tspan fill="#4ade80">github</tspan><tspan fill="#8fb3a0"> ~ $ </tspan><set attributeName="opacity" to="1" begin="0.60s" fill="freeze"/></text><clipPath id="c0"><rect x="208.0" y="60" height="26" width="0">
-<animate attributeName="width" values="0.0;9.0;18.0;27.0;36.0;45.0;54.0" calcMode="discrete" begin="0.90s" dur="0.42s" fill="freeze"/></rect></clipPath>
-<text x="208.0" y="78" class="t" fill="#e2f5ea" clip-path="url(#c0)">whoami</text><text x="46" y="104" class="t" fill="#e2f5ea" opacity="0">Mohammad Garmabi — Senior Software Engineer<animate attributeName="opacity" from="0" to="1" begin="1.67s" dur=".35s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="-12 0" to="0 0" begin="1.67s" dur=".35s" fill="freeze"/></text><text x="28" y="130" class="t" opacity="0"><tspan fill="#2dd4bf">mohammad</tspan><tspan fill="#8fb3a0">@</tspan><tspan fill="#4ade80">github</tspan><tspan fill="#8fb3a0"> ~ $ </tspan><set attributeName="opacity" to="1" begin="1.95s" fill="freeze"/></text><clipPath id="c2"><rect x="208.0" y="112" height="26" width="0">
-<animate attributeName="width" values="0.0;9.0;18.0;27.0;36.0;45.0;54.0;63.0;72.0;81.0;90.0;99.0;108.0;117.0" calcMode="discrete" begin="2.25s" dur="0.91s" fill="freeze"/></rect></clipPath>
-<text x="208.0" y="130" class="t" fill="#e2f5ea" clip-path="url(#c2)">cat focus.txt</text><text x="46" y="156" class="t" fill="#4ade80" opacity="0">⚛  Scalable React + TypeScript applications<animate attributeName="opacity" from="0" to="1" begin="3.51s" dur=".35s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="-12 0" to="0 0" begin="3.51s" dur=".35s" fill="freeze"/></text><text x="46" y="182" class="t" fill="#2dd4bf" opacity="0">⚙  Backend services with Go, Django &amp; FastAPI<animate attributeName="opacity" from="0" to="1" begin="3.79s" dur=".35s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="-12 0" to="0 0" begin="3.79s" dur=".35s" fill="freeze"/></text><text x="46" y="208" class="t" fill="#16a34a" opacity="0">🧩  Reusable components &amp; maintainable frontend systems<animate attributeName="opacity" from="0" to="1" begin="4.07s" dur=".35s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="-12 0" to="0 0" begin="4.07s" dur=".35s" fill="freeze"/></text><text x="46" y="234" class="t" fill="#16a34a" opacity="0">🔍  API design, server state &amp; software architecture<animate attributeName="opacity" from="0" to="1" begin="4.35s" dur=".35s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="-12 0" to="0 0" begin="4.35s" dur=".35s" fill="freeze"/></text><text x="46" y="260" class="t" fill="#a3e635" opacity="0">🚀  Maintaining tanstack-fetch — an open-source HTTP client<animate attributeName="opacity" from="0" to="1" begin="4.63s" dur=".35s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="-12 0" to="0 0" begin="4.63s" dur=".35s" fill="freeze"/></text><text x="28" y="286" class="t" opacity="0"><tspan fill="#2dd4bf">mohammad</tspan><tspan fill="#8fb3a0">@</tspan><tspan fill="#4ade80">github</tspan><tspan fill="#8fb3a0"> ~ $ </tspan><set attributeName="opacity" to="1" begin="4.91s" fill="freeze"/></text><clipPath id="c8"><rect x="208.0" y="268" height="26" width="0">
-<animate attributeName="width" values="0.0;9.0;18.0;27.0;36.0;45.0;54.0;63.0;72.0;81.0;90.0;99.0;108.0;117.0;126.0;135.0" calcMode="discrete" begin="5.21s" dur="1.05s" fill="freeze"/></rect></clipPath>
-<text x="208.0" y="286" class="t" fill="#e2f5ea" clip-path="url(#c8)">cat values.json</text><text x="46" y="312" class="t" fill="#fbbf24" opacity="0">{ &quot;types&quot;: &quot;strict&quot;, &quot;behavior&quot;: &quot;predictable&quot;, &quot;dx&quot;: &quot;first-class&quot; }<animate attributeName="opacity" from="0" to="1" begin="6.61s" dur=".35s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="-12 0" to="0 0" begin="6.61s" dur=".35s" fill="freeze"/></text><text x="28" y="338" class="t" opacity="0"><tspan fill="#2dd4bf">mohammad</tspan><tspan fill="#8fb3a0">@</tspan><tspan fill="#4ade80">github</tspan><tspan fill="#8fb3a0"> ~ $ </tspan><set attributeName="opacity" to="1" begin="6.89s" fill="freeze"/></text><rect x="208.0" y="323" width="9" height="19" fill="#4ade80" opacity="0"><set attributeName="opacity" to="1" begin="6.89s" fill="freeze"/><animate attributeName="fill-opacity" values="1;0;1" dur="1s" begin="6.89s" repeatCount="indefinite" calcMode="discrete"/></rect>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="452" viewBox="0 0 1000 452" role="img" aria-label="whoami: Senior Software Engineer — React, TypeScript, Go, Django, FastAPI">
+<defs><linearGradient id="og" x1="0" y1="0" x2="1" y2="0" spreadMethod="reflect">
+  <stop offset="0" stop-color="#ea580c"/><stop offset=".5" stop-color="#f97316"/><stop offset="1" stop-color="#fbbf24"/>
+  <animateTransform attributeName="gradientTransform" type="translate" values="-1 0;1 0;-1 0" dur="7s" repeatCount="indefinite"/>
+</linearGradient><filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter><filter id="blur" x="-80%" y="-80%" width="260%" height="260%"><feGaussianBlur stdDeviation="50"/></filter><pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#ffffff" fill-opacity=".07"/></pattern></defs>
+<style>
+.up{opacity:0;animation:up .9s cubic-bezier(.2,.8,.2,1) forwards}
+@keyframes up{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:none}}
+.fade{opacity:0;animation:fade 1s ease forwards}
+@keyframes fade{to{opacity:1}}
+.float{animation:float 6s ease-in-out infinite}
+@keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-8px)}}
+.mono{font-family:'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace} .sans{font-family:'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif}
+</style>
+<rect x=".5" y=".5" width="999" height="451" rx="20" fill="#120d09" stroke="#2a1c12"/>
+<rect x="1" y="1" width="998" height="450" rx="20" fill="url(#dots)"/>
+<circle cx="880" cy="60" r="120" fill="#f97316" opacity=".12" filter="url(#blur)"/>
+<circle cx="30" cy="30" r="5.5" fill="#f97316"/><circle cx="48" cy="30" r="5.5" fill="#3a2a1e"/><circle cx="66" cy="30" r="5.5" fill="#3a2a1e"/>
+<text x="90" y="35" class="mono" font-size="13.5" fill="#a8968a">whoami.ts</text>
+<rect x="908" y="17" width="66" height="26" rx="13" fill="#1f150d" stroke="#f97316" stroke-opacity=".5"/>
+<circle cx="924" cy="30" r="4" fill="#f97316"><animate attributeName="opacity" values="1;.2;1" dur="1.4s" repeatCount="indefinite"/></circle>
+<text x="935" y="34.5" class="mono" font-size="11.5" font-weight="700" fill="#f97316">LIVE</text>
+<line x1="0" y1="58" x2="1000" y2="58" stroke="#2a1c12"/>
+<rect x="16" y="72" width="968" height="58" rx="12" fill="#f97316" fill-opacity=".07" stroke="#f97316" stroke-opacity=".55" class="fade" style="animation-delay:3s"><animate attributeName="y" values="72;138;204;270;336;72" keyTimes="0.000;0.200;0.400;0.600;0.800;1" dur="11.0s" begin="3s" calcMode="discrete" repeatCount="indefinite"/></rect>
+<g class="up" style="animation-delay:0.30s">
+<rect x="32" y="82" width="40" height="20" rx="6" fill="#24180f"/><text x="52.0" y="96" text-anchor="middle" class="mono" font-size="11" font-weight="700" fill="#f97316">GET</text>
+<text x="84" y="97" class="mono" font-size="14.5" fill="#f5ede6"><tspan fill="#a8968a">api.</tspan>me.role()</text>
+<text x="32" y="121" class="mono" font-size="12.5" font-weight="700" fill="#22c55e">200</text>
+<text x="68" y="121" class="mono" font-size="12.5" fill="#a8968a">'Senior Software Engineer'</text>
+<text x="890" y="97" text-anchor="end" class="mono" font-size="12.5" fill="#fbbf24">Profile</text>
+<text x="964" y="97" text-anchor="end" class="mono" font-size="12.5" fill="#6b5a4e">12ms</text>
+</g>
+<line x1="32" y1="134" x2="968" y2="134" stroke="#2a1c12" stroke-dasharray="2 4"/>
+<g class="up" style="animation-delay:0.75s">
+<rect x="32" y="148" width="40" height="20" rx="6" fill="#24180f"/><text x="52.0" y="162" text-anchor="middle" class="mono" font-size="11" font-weight="700" fill="#f97316">GET</text>
+<text x="84" y="163" class="mono" font-size="14.5" fill="#f5ede6"><tspan fill="#a8968a">api.</tspan>me.stack('frontend')</text>
+<text x="32" y="187" class="mono" font-size="12.5" font-weight="700" fill="#22c55e">200</text>
+<text x="68" y="187" class="mono" font-size="12.5" fill="#a8968a">['React', 'TypeScript', 'Next.js', 'Vue']</text>
+<text x="890" y="163" text-anchor="end" class="mono" font-size="12.5" fill="#fbbf24">Stack</text>
+<text x="964" y="163" text-anchor="end" class="mono" font-size="12.5" fill="#6b5a4e">18ms</text>
+</g>
+<line x1="32" y1="200" x2="968" y2="200" stroke="#2a1c12" stroke-dasharray="2 4"/>
+<g class="up" style="animation-delay:1.20s">
+<rect x="32" y="214" width="40" height="20" rx="6" fill="#24180f"/><text x="52.0" y="228" text-anchor="middle" class="mono" font-size="11" font-weight="700" fill="#f97316">GET</text>
+<text x="84" y="229" class="mono" font-size="14.5" fill="#f5ede6"><tspan fill="#a8968a">api.</tspan>me.stack('backend')</text>
+<text x="32" y="253" class="mono" font-size="12.5" font-weight="700" fill="#22c55e">200</text>
+<text x="68" y="253" class="mono" font-size="12.5" fill="#a8968a">['Go', 'Django', 'FastAPI', 'Node.js']</text>
+<text x="890" y="229" text-anchor="end" class="mono" font-size="12.5" fill="#fbbf24">Stack</text>
+<text x="964" y="229" text-anchor="end" class="mono" font-size="12.5" fill="#6b5a4e">21ms</text>
+</g>
+<line x1="32" y1="266" x2="968" y2="266" stroke="#2a1c12" stroke-dasharray="2 4"/>
+<g class="up" style="animation-delay:1.65s">
+<rect x="32" y="280" width="48" height="20" rx="6" fill="#24180f"/><text x="56.0" y="294" text-anchor="middle" class="mono" font-size="11" font-weight="700" fill="#f97316">POST</text>
+<text x="92" y="295" class="mono" font-size="14.5" fill="#f5ede6"><tspan fill="#a8968a">api.</tspan>oss.publish('tanstack-fetch')</text>
+<text x="32" y="319" class="mono" font-size="12.5" font-weight="700" fill="#22c55e">201</text>
+<text x="68" y="319" class="mono" font-size="12.5" fill="#a8968a">{ core: '3.68KB', deps: 0, frameworks: 8 }</text>
+<text x="890" y="295" text-anchor="end" class="mono" font-size="12.5" fill="#fbbf24">Package</text>
+<text x="964" y="295" text-anchor="end" class="mono" font-size="12.5" fill="#6b5a4e">42ms</text>
+</g>
+<line x1="32" y1="332" x2="968" y2="332" stroke="#2a1c12" stroke-dasharray="2 4"/>
+<g class="up" style="animation-delay:2.10s">
+<rect x="32" y="346" width="32" height="20" rx="6" fill="#24180f"/><text x="48.0" y="360" text-anchor="middle" class="mono" font-size="11" font-weight="700" fill="#f97316">WS</text>
+<text x="76" y="361" class="mono" font-size="14.5" fill="#f5ede6"><tspan fill="#a8968a">api.</tspan>me.focus('/architecture')</text>
+<text x="32" y="385" class="mono" font-size="12.5" font-weight="700" fill="#fbbf24">101</text>
+<text x="68" y="385" class="mono" font-size="12.5" fill="#a8968a">streaming ideas → clean abstractions…</text>
+<text x="890" y="361" text-anchor="end" class="mono" font-size="12.5" fill="#fbbf24">Socket</text>
+<text x="964" y="361" text-anchor="end" class="mono" font-size="12.5" fill="#6b5a4e">live</text>
+</g>
+<line x1="0" y1="390" x2="1000" y2="390" stroke="#2a1c12"/>
+<text x="32" y="418" class="sans fade" style="animation-delay:2.8s" font-size="13.5" fill="#a8968a"><tspan font-weight="700" fill="#f5ede6">types</tspan> on success</text>
+<text x="180.4" y="418" class="sans fade" style="animation-delay:2.8s" font-size="13.5" fill="#a8968a"><tspan font-weight="700" fill="#f5ede6">tests</tspan> on failure</text>
+<text x="328.8" y="418" class="sans fade" style="animation-delay:2.8s" font-size="13.5" fill="#a8968a"><tspan font-weight="700" fill="#f5ede6">shipping</tspan> honored</text>
+<text x="968" y="418" text-anchor="end" class="mono fade" style="animation-delay:2.8s" font-size="12.5" fill="#6b5a4e">5 requests · 0 errors</text>
 </svg>
